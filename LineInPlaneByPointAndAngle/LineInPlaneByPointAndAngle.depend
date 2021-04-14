@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1610633092 source:d:\users\denis\desktop\c++\denis19311027Курсова№1\lineinplanebypointandangle\main.cpp
+	<iostream>
+	"Line.h"
+	"Point.h"
+	<limits>
+
+1610631599 d:\users\denis\desktop\c++\denis19311027Курсова№1\lineinplanebypointandangle\line.h
+
+1610631913 source:d:\users\denis\desktop\c++\denis19311027Курсова№1\lineinplanebypointandangle\line.cpp
+	<iostream>
+	<cmath>
+	"Line.h"
+
+1610629913 d:\users\denis\desktop\c++\denis19311027Курсова№1\lineinplanebypointandangle\point.h
+
